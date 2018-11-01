@@ -16,7 +16,7 @@
   <packaging>pom</packaging>
 
   <properties>
-    <version.teiid>10.2.0</version.teiid>
+    <version.teiid>11.2.1-SNAPSHOT</version.teiid>
   </properties>
 
   <dependencyManagement>
